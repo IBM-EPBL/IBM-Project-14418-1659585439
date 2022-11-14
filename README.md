@@ -1,10 +1,7 @@
 <h2><picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="32" height="32">
-</picture> Introduction :</h2><i>
+  <
 
-![CUSTOMER CARE REGISTRY page1](https://user-images.githubusercontent.com/105087810/195990419-c8982670-1215-4e5a-82b4-b96bcef2752f.png)
-# IBM-Project-52675-1661074203
+
   
 
 
