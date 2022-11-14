@@ -59,7 +59,7 @@ USER : They can register for an account. After the login, they can create the co
   
   
 <div align="center">
-  <h5> 🏫 NARASU'S SARATHY INSTITUTE OF TECHNOLOGY- SALEM </h5>
+  <h5> 🏫 ADHIPARASAKTHI ENGINEERING COLLEGE</h5>
 
 
 
