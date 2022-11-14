@@ -56,6 +56,18 @@ USER : They can register for an account. After the login, they can create the co
 - [x] Functional  Requirements  <br>
 - [x] Data Flow Diagrams <br>
 - [x] Technology Architecture <br>
+
+**⚒️ PROJECT PLANNING PHASE**
+- [x] Milestone & Activity List <br>
+- [x] Sprint Delivery Plan <br>
+
+**⚒️ PROJECT DEVELOPMENT PHASE**
+- [x] Sprint-1 <br>
+- [x] Sprint-2 <br>
+- [x] Sprint-3 <br>
+- [x] Sprint-4 <br>
+
+
   
   
 <div align="center">
