@@ -1,5 +1,4 @@
-
-![banner](https://user-images.githubusercontent.com/C:\Users\Dharani Shree\Downloads\Customer Care Registry)
+![CUSTOMER CARE REGISTRY](https://user-images.githubusercontent.com/88620472/192129897-5c2032b4-67c7-4305-9e3f-1b4669276f8e.jpeg)
 
 👨‍💻**[CUSTOMER CARE REGISTRY](url)**👨‍💻
 1. TECHNOLOGY : CLOUD APP DEVELOPMENT
