@@ -1,11 +1,8 @@
-
- 
-
-
-  
-
-
-
+<br>
+<div align="center">
+<h1 align="fill" >
+<img src="C:\Users\Dharani Shree\Downloads" />
+</h1>
 👨‍💻**[CUSTOMER CARE REGISTRY](url)**👨‍💻
 1. TECHNOLOGY : CLOUD APP DEVELOPMENT
 2. TEAM ID          : PNT2022TMID38567
