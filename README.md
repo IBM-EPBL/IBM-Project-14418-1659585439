@@ -1,13 +1,9 @@
-<br>
-<div align="center">
-<h1 align="fill" >
-<img src="C:\Users\Dharani Shree\Downloads" />
-</h1>
+
   
 👨‍💻**[CUSTOMER CARE REGISTRY](url)**👨‍💻
-<br>1. TECHNOLOGY : CLOUD APP DEVELOPMENT
-<br>2. TEAM ID          : PNT2022TMID38567
-<br>3. PROJECT GROUP NAME : CUSTOMER CARE REGISTRY
+1. TECHNOLOGY : CLOUD APP DEVELOPMENT
+2. TEAM ID          : PNT2022TMID38567
+3. PROJECT GROUP NAME : CUSTOMER CARE REGISTRY
   
   <div>
  <h2><picture>
